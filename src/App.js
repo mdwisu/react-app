@@ -10,11 +10,12 @@ import ClassEvent from './components/ClassEvent';
 import FunctionalCounter from './components/FunctionalCounter';
 import ConditionalCompenent from './components/ConditionalCompenent';
 import Product from './components/Product';
+import Form from './components/Form';
 
 function App() {
   return (
     <div className="App">
-      <Product/>
+      <Form/>
     </div>
   );
 }

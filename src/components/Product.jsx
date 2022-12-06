@@ -2,6 +2,7 @@ import React from 'react';
 
 const Product = () => {
   // const products = ['laptop', 'phone', 'modem', 'computer'];
+  // eslint-disable-next-line no-unused-vars
   const products = [
     { id: 1, name: 'laptop', price: 500 },
     { id: 2, name: 'phone', price: 200 },
