@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 
 function ConditionalCompenent() {
+  // eslint-disable-next-line no-unused-vars
   const [display, setDisplay] = useState(true);
 
   <h3>This is a Conditional Compenent</h3>;
